@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14444" started-at="2019-01-11T03:40:19Z" finished-at="2019-01-11T03:40:34Z">
+    <groups>
+    </groups>
+    <test name="ProductImages" duration-ms="14444" started-at="2019-01-11T03:40:19Z" finished-at="2019-01-11T03:40:34Z">
+      <class name="pages.Homepage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:pages.Homepage@51081592]" name="setup" is-config="true" duration-ms="9562" started-at="2019-01-11T03:40:19Z" finished-at="2019-01-11T03:40:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Get_ProductImages()[pri:0, instance:pages.Homepage@51081592]" name="Get_ProductImages" duration-ms="1898" started-at="2019-01-11T03:40:29Z" finished-at="2019-01-11T03:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_ProductImages -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.Homepage@51081592]" name="tearDown" is-config="true" duration-ms="2956" started-at="2019-01-11T03:40:31Z" finished-at="2019-01-11T03:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.Homepage -->
+    </test> <!-- ProductImages -->
+  </suite> <!-- Suite -->
+</testng-results>
